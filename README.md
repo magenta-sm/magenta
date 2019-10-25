@@ -1,3 +1,3 @@
 # magenta
 A Million Dollar Company.
-# CTO- Nishant Tautray
+To be a new startup planned but may not be
